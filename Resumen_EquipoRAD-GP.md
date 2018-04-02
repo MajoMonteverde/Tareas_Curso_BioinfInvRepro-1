@@ -122,3 +122,30 @@ Cuando hay un genoma de referencia, el programa permite usar una ventana de desl
 |Lositan| Se basa en los valores locales de FST y FIS bajo un modelo de islas con migración|
 |pcadapt |Paquetería de R que usa análisis de componentes principales y distancia de Mahalanobis para detectar loci bajo selección.|
 
+* * *
+### Referencias
++ Alexander, D. H., J. Novembre and K. Lange. 2009. Fast model -based estimation of ancestry in unrelated individuals. *Genome Research* 19: 1655-1664.
++ Andrews, K. R., J. M. Good, M. R. Miller, G. Luikart and P. A. Hohenlohe. 2016. Harnessing the power of RADseq for ecological and evolutionary genomics. *Nature Reviews. Genetics.* 
++ Antao, T., A. Lopes, R. J. Lopes, A. Beja-Pereira and G. Luikart. 2008. LOSITAN: A workbench to detect molecular adaptation based on a Fst - outlier method. *BMC Bioinformatics* 9:323.
++ Arnold, B., R. B. Corbett-Detig, D. Hartl and K. Bomblies. 2013. RADseq underestimates diversity and introduces genealogical biases due to nonrandom haplotype sampling. *Molecular Ecology* 22: 3179-3190.
++ Beerli, P. and M. Palczewski. 2010. Unified framework to evaluate panmixia and migration direction among multiple sampling locations. *Genetics* 185(1): 313-326.
++ Catchen, J.; P. A. Hohenlohe; A. Amores y A. C. William. 2013. Stacks: an analysis tool set for population genomics. *Molecular Ecology*; 22(11): 3124–3140.
++ Cornuet, J. M., F. Santos, M. A. Beaumont, C. P. Robert, J. M. Marin, D. J. Balding, T. Guillemaud and A. Estoup. 2008. Inferring population history with *DIY ABC*: a user-friendly approach to approximate Bayesian computation. *Bioinformatics* 24(23): 2713-2719.
++ Danecek, P., A. Auton, G. Abecasis, C. A. Albers, E. Banks, M. A. DePristo, R. E. Handsaker, G. Lunter, G. T. Marth, et al. 2011. The variant call format and VCFtools. *Bioinformatics* 27(15): 2156-2158.
++ Davey J. L. y M. W. Blaxter. 2011. RADSeq: next-generation population genetics. Briefings in Functional Genomics. 9(5): 416-423.
+van Dijk, E. L., H. Auger, Y. Jaszczyszyn and C. Thermes. 2014. Ten years of next-generation sequencing technology. *Trends in Genetics* 30(9): 418-426.
++ Ellegren, H. 2014. Genome sequencing and population genomics in non-model organisms. *Trends in Ecology & Evolution*. 29(1): 51-63.
++ Excoffier, L. and M. Foll. 2011. fastsimcoal: a continuous-time coalescent simulator if genomic diversity under arbitrarily complex evolutionary scenarios. *Bioinformatics* 27(9): 1332-1334.
++ Excoffier, L. and H. E. L. Lischer. 2010. Arlequin suite ver 3.5: a new series of programs to perform population genetics analyses under Linux and Windows. *Molecular Ecology Resources* 10(3): 564-567.
++ Harismendy, O., P. C. Ng, R. L. Strausberg, X. Wang, T, B. Stockwell, K. Y. Beeson, N. J. Schork, S. S. Murray, E. J. Topol, S. Levy, and K. A. Frazer. 2009. Evaluation of next generation sequencing platforms for population targeted sequencing studies. *Genome Biology*. 10(3): R32
++ Hohenlohe P. A., S. J. Amish, J. M. Catchen, F. W. Allendorf and G. Luikart. 2011. Next-generation RAD sequencing identifies thousands of SNPs for assessing hybridization between rainbow and westslope cutthroat trout. *Molecular Ecology Resources* 11(Suppl. 1): 117-122.
++ Li, H., B. Handsaker, A. Wysoker, T. Fennell, J. Ruan, N. Homer, G. Marth, G. Abecasis y R. Durbin. 2009. The sequence alignment/map format and SAMtools. *Bioinformatics*. 25 :2078–2079.
++ Mastretta-Yanes, A., N. Arrigo, N. Alvarez, T. H. Jorgensen, D. Piñero and B. C. Emerson. 2015. Restriction site-associated DNA sequencing, genotyping error estimation and *de novo* assembly optimization for population genetic inference. *Molecular Ecology Resources*. 15: 28-41
++ Puritz, J. B., M. V. Matz, R. J. Toonen, J. N. Weber, D. I. Bolnick and C. E. Bird. 2014. Demystifying the RAD fad. *Molecular Ecology*. 23: 5937-5942
++ Rochette, N. C. y J. M. Catchen. 2017. Deriving genotypes from RAD-seq short-read data
+using Stacks. *Nature Protocols*. 12(12): 2640-2659.
++ Shah, V. B. y B. H. McRae. 2008. Circuitscape: a tool for landscape ecology. Proceedings of the 7th Python in Science Conference (eds G. Varoquaux, T. Vaught & J. Millman), Pasadena.
++ Shafer A. B. A., C. R. Peart , S. Tusso, I. Maayan, A. Brelsford, C. W. Wheat, J. B. W. Wolf. 2017. Bioinformatic processing of RAD-seq data dramatically impacts downstream population genetic inference. *Methods in Ecology and Evolution*. 8: 907-917.
++ Skotte,  L., T. S. Korneliussen, A. Albrechtsen. 2013. Estimating individual admixture  proportions from Next Generation Sequencing data. *Genetics*. 195(3): 693-702.
++ Wilson, G. A. y B. Rannala. 2003. Bayesian inference of recent migration rates using multilocus genotypes. *Genetics*. 163: 1177-1191.
++ Zhi, D.; N. Liu y K. Zhang. 2015. On the design and analysis of next-generation sequencing genotyping for a cohort with haplotype-informative reads. *Methods*. 0: 41–46.

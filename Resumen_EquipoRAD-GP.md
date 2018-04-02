@@ -34,10 +34,10 @@ Todos los procesos de ensamblado de librerías así como el diseño de muestreo 
 No existe una forma universal de garantizar que las inferencias no se hayan visto afectadas por eventos inesperados, especialmente porque muchas expectativas dependen del organismo específico en el que se realiza el análisis. Sin embargo, hay **controles generales que deberían ser aplicables en la mayoría de los casos** (Rochette y Catchen, 2017):
 
 > + Número total de loci identificados debe coincidir con las expectativas basadas en el tamaño y composición del genoma, las opciones de la enzima de restricción  y el protocolo molecular.
-+ Verificar la superposición entre los loci encontrados en diferentes muestras (sobre todo en análisis *de novo*).
-+ Debe existir un conjunto central de loci compartido por la mayoría de las muestras y presente en todas las poblaciones.
-+ Cobertura suficientemente alta.
-+ Comprobaciones se pueden realizar utilizando los datos de genotipo en sí, como rastrear el número de marcadores con heterocigosidades observables inverosímiles, comprobar que el valor de la relación transición/transversión no está fuertemente distorsionado o verificar que la diversidad de nucleótidos es plausible con respecto a la biología del sistema.
+> + Verificar la superposición entre los loci encontrados en diferentes muestras (sobre todo en análisis *de novo*).
+> + Debe existir un conjunto central de loci compartido por la mayoría de las muestras y presente en todas las poblaciones.
+> + Cobertura suficientemente alta.
+> + Comprobaciones se pueden realizar utilizando los datos de genotipo en sí, como rastrear el número de marcadores con heterocigosidades observables inverosímiles, comprobar que el valor de la relación transición/transversión no está fuertemente distorsionado o verificar que la diversidad de nucleótidos es plausible con respecto a la biología del sistema.
 
 ##### Tabla 3. Resumen de fuentes de error, problemas en laboratorio y bioinformáticos (Harismendy, *et al.*, 2009; Hohenlohe, *et al.*, 2010; Davey y Blaxter 2011; Arnold, *et al.*, 2013; Puritz, *et al.*, 2014; van Dijk, *et al.*, 2014; Mastretta-Yanes, *et al.*, 2015; Zhi, *et al.*, 2015; Andrews, *et al.*, 2016; Harris, 2016; Shafer, *et al.*, 2017).
 
@@ -61,10 +61,10 @@ En los estudios de genética poblacional, el descubrimiento y uso de marcadores 
 Un estudio de genómica poblacional tiene, al menos, los siguientes pasos (Ellegren 2014):
 
 > 1. El diseño de la estrategia de secuenciación; 
-2. La generación de los datos de secuencia;
-3. El mapeo de las secuencias a un ensamble;
-4. El llamado de las variantes (SNPs) y;
-5. Análisis de genética poblacional.
+> 2. La generación de los datos de secuencia;
+> 3. El mapeo de las secuencias a un ensamble;
+> 4. El llamado de las variantes (SNPs) y;
+> 5. Análisis de genética poblacional.
 
 Cada paso presenta sus propios desafíos e incertidumbres generados por atributos biológicos como el número de loci identificados, el grado de secuencias repetitivas en todo el genoma y el nivel de polimorfismo y divergencia entre las poblaciones. Estos factores interactúan con características del secuenciamiento como la calidad de DNA y el grado de multiplexación de la muestra, el número de lecturas, y el error de secuenciación (Catchen, *et al.*, 2013).
 
